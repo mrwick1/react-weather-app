@@ -1,0 +1,8 @@
+.container{
+    max-width: 1080px;
+    margin: 20px auto;
+}
+.container h1 {
+    text-align: center;
+    margin: 30px;
+}
